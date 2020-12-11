@@ -1,0 +1,2 @@
+[flake8]
+exclude = migrations,__pycache__,manage.py,recipe_api/settings.py
